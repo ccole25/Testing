@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "assets/css/normalize.css";
+import "battery-pack/assets/css/allStyles.scss";
 
 /**
  * The index html will be generated from this file. You can customize things as
